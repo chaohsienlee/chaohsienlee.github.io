@@ -1,3 +1,5 @@
-# chaohsienlee.github.io
-
-This website is LeeCH Open Courses created using Hugo. 
+# Website builder
+1. VS Code
+2. GIT
+3. Hugo
+4. Theme: Refresh
